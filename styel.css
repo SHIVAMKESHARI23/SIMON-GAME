@@ -1,0 +1,42 @@
+*{
+text-align: center;
+justify-items: center;
+/* background-color: teal; */
+
+}
+.btn{
+     height: 200px;
+     width:200px;
+     border-radius: 50px;
+     border:20px solid black;
+     /* background-color: red; */
+     /* padding: 200px; */
+     margin: 2.5rem;
+
+
+}
+h3{
+    color:red;
+}
+.btn-container{
+    display :flex;
+    /* justify-content: center; */
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color:#63aac0;
+}
+.purple{
+    background-color: #8c9ff9;
+}
+.flash{
+    background-color: white;
+}
+.uflash{
+    background-color: green;
+}
